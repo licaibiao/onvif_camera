@@ -12,6 +12,13 @@ rtsp_client
 基于大华网络摄像头的最简RTSP客户端程序
 
 
+rtsp_rtcp_rtp_load_aac
+----------------------
+
+[《ONVIF网络摄像头(IPC)客户端开发—RTSP RTCP RTP加载AAC音频流》](https://blog.csdn.net/li_wen01/article/details/102293461)
+
+加载大华网络摄像头中的AAC音频流
+
 
 rtsp_rtcp_rtp_load_h264
 -----------------------
@@ -20,12 +27,6 @@ rtsp_rtcp_rtp_load_h264
 加载大华网络摄像头中的h264视频流
 
 
-rtsp_rtcp_rtp_load_aac
-----------------------
-
-[《ONVIF网络摄像头(IPC)客户端开发—RTSP RTCP RTP加载AAC音频流》](https://blog.csdn.net/li_wen01/article/details/102293461)
-
-加载大华网络摄像头中的AAC音频流
 
 
 
